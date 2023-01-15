@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//По заданному номеру дня недели вывести его название
+string [] Array = {zerro, monday, tuesday, wednesday, thursday, friday, saturday, sunday};
+Console.Write(Array[1]);
