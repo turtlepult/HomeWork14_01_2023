@@ -8,5 +8,4 @@ for (int i = - num; i <= num; i++)
     {
         Console.WriteLine(i);
     }
-    
 }
