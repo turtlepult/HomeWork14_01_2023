@@ -32,7 +32,7 @@ switch (num_day)
         Console.Write("Воскресение");
     break;
 
-    default: 
+    default:
         Console.Write("некоректный номер дня недели!!!!");
     break;
 }
